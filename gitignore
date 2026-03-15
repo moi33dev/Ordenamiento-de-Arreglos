@@ -1,0 +1,18 @@
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Archivos de logs o temporales
+*.log
+tmp/
+
+# Ignorar archivos de configuración local (si usas bases de datos)
+config.php
+.env
+
+# Ignorar carpetas de dependencias (si llegas a usar Composer)
+vendor/
